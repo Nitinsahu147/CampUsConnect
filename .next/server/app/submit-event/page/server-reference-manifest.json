@@ -1,0 +1,16 @@
+{
+  "node": {
+    "409cded15d0ddce90421cfed12dfc1b1ddb39a1212": {
+      "workers": {
+        "app/submit-event/page": {
+          "moduleId": "[project]/.next-internal/server/app/submit-event/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/answer-event-questions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/submit-event/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
