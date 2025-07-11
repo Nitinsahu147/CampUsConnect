@@ -1,5 +1,4 @@
 # CampUsConnect
-CampUsConnect is a modern web platform designed to bridge the gap between students and campus events.
 
 > "Every event is a doorway to a new connection, a new skill, a new idea. We built CampUsConnect to make sure you never miss the chance to walk through."
 
